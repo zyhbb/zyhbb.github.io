@@ -2,7 +2,9 @@
 这是我的第一个博客网站
 welcome to my blog!
 <p>
-![](https://github-readme-stats.vercel.app/api?username=zyhbb&show_icons=true&theme=dark&count_private=true)
+  <b>访问量</b>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Githubhttps://zyhbb.github.io/&right_color=red" />
+
 </p>
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
