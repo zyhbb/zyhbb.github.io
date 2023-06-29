@@ -2,8 +2,8 @@
 这是我的第一个博客网站
 welcome to my blog!
 <p>
-  <b>访问量</b>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Githubhttps://zyhbb.github.io/&right_color=red" />
+  
+  <img src=https://img0.baidu.com/it/u=388943653,2824140243&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500></img>
 
 </p>
 <p>
