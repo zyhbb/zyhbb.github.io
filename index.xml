@@ -6,7 +6,40 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 16:18:53 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 15:44:39 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyThree</title>
+      <link>/post/mythree/</link>
+      <pubDate>Sat, 01 Jul 2023 15:44:39 +0800</pubDate>
+      
+      <guid>/post/mythree/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here. 在这次搭建博客的过程中，在cmd里面初始化git之后，页面显示我已经初始化过了，但是却未在文件中发现.git，经过询问导师，我了解到.git是个可以被隐藏的目录，通过参考文献把隐藏性质关闭了，.git文件就显示出来了。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>MySecond</title>
+      <link>/post/mysecond/</link>
+      <pubDate>Fri, 30 Jun 2023 23:13:17 +0800</pubDate>
+      
+      <guid>/post/mysecond/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here. #我的第二篇博客
+在博客制作中，文件.git在我建立之后未显示，经了解这个文件是被隐藏了。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFristAticles</title>
       <link>/post/myfristaticles/</link>

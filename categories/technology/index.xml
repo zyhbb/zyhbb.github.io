@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Technology on My New Hugo Site</title>
+    <link>/categories/technology/</link>
+    <description>Recent content in Technology on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 15:44:39 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 15:44:39 +0800</lastBuildDate><atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyThree</title>
       <link>/post/mythree/</link>
@@ -34,22 +34,6 @@
           
             Insert Lead paragraph here. #我的第二篇博客
 在博客制作中，文件.git在我建立之后未显示，经了解这个文件是被隐藏了。
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>MyFristAticles</title>
-      <link>/post/myfristaticles/</link>
-      <pubDate>Thu, 29 Jun 2023 16:18:53 +0800</pubDate>
-      
-      <guid>/post/myfristaticles/</guid>
-      <description>
-        
-          
-            #这是我的第一篇博客啊
           
           
         

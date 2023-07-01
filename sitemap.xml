@@ -2,17 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2023-06-29T16:18:53+08:00</lastmod>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/post/mythree/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/tags/tag_name1/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/tags/tag_name2/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/categories/technology/</loc>
+    <lastmod>2023-07-01T15:44:39+08:00</lastmod>
+  </url><url>
+    <loc>/post/mysecond/</loc>
+    <lastmod>2023-06-30T23:13:17+08:00</lastmod>
   </url><url>
     <loc>/post/myfristaticles/</loc>
     <lastmod>2023-06-29T16:18:53+08:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-06-29T16:18:53+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
