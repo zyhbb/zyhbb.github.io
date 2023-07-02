@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 15:44:39 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2023 22:11:15 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StudyPy1</title>
+      <link>/post/studypy1/</link>
+      <pubDate>Sun, 02 Jul 2023 22:11:15 +0800</pubDate>
+      
+      <guid>/post/studypy1/</guid>
+      <description>
+        
+          
+            Python常用快捷键 ctrl+ alt + s:打开软件设置。 ctrl+d:复制当前行代码。 shift +alt+上下: 将当前行代码上移或下移crtl+ shift +f10:运行当前代码文件shift + f6:重命名文件。 ctrl+a:全选。 ctrl+ cv\x:复制、粘贴、剪切。 ctrl+f:搜索。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyThree</title>
       <link>/post/mythree/</link>
